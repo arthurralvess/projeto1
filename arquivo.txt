@@ -1,2 +1,4 @@
 texto
 mais uma linha
+git commit -m 'alteração da segunda linha arquivo.tx'
+mais uma linha
